@@ -4,6 +4,6 @@ version=v1
 versionCode=1
 author=jerbear294
 description=Systemlessly replaces emoji font with Emoji One.
-support=PLACEHOLDER
+support=http://forum.xda-developers.com/apps/magisk/module-emoji-one-t3477911
 donate=jsilliman@cfl.rr.com on PayPal
 cacheModule=false
