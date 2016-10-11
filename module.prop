@@ -1,9 +1,9 @@
-id=template
-name=Template Module
+id=EmojiOne-systemless
+name=Emoji One
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
-support=http://forum.xda-developers.com/showthread.php?t=3432382
-donate=http://topjohnwu.github.io/donate
+author=jerbear294
+description=Systemlessly replaces emoji font with Emoji One.
+support=PLACEHOLDER
+donate=jsilliman@cfl.rr.com on PayPal
 cacheModule=false
