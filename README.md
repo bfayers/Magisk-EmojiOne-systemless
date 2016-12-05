@@ -1,3 +1,7 @@
+Current EmojiOne version: `November 5, 2016` ([source](https://github.com/Ranks/emojione/raw/master/assets/fonts/emojione-android.ttf))
+
+---
+
 # How to Create A New Repo
 1. Fork this repo
 2. Edit "config.sh", and follow the instructions in the script file to create your own Magisk Module. Note that you might want to use Notepad++ on Windows, since the script files are using Unix endline.
