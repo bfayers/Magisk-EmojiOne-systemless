@@ -31,8 +31,6 @@
 
 # NOTE: This part has to be adjusted to fit your own needs
 
-# Is this a cache mod?
-CACHEMOD=false
 
 # This will be the folder name under /magisk or /cache/magisk
 # This should also be the same as the id in your module.prop to prevent confusion
@@ -41,6 +39,9 @@ MODID=EmojiOne-systemless
 # Set to true if you need automount
 # Most mods would like it to be enabled
 AUTOMOUNT=true
+
+# Set to true if you need to load system.prop
+PROPFILE=false
 
 # Set to true if you need post-fs script (Only available in cache mods)
 POSTFS=false

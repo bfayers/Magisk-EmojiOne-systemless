@@ -1,6 +1,6 @@
 v1
-    - New feature 1
-    - New feature 2
-    - Fix 1
-    - Fix 2
-    - Goodies
+    - Initial release
+v1.1
+    - Bugfix
+v1.11
+    - Update to latest Magisk Module template
