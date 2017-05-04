@@ -4,3 +4,5 @@ v1.1
     - Bugfix
 v1.11
     - Update to latest Magisk Module template
+v1.2
+    - Update to latest version on EmojiOne

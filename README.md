@@ -9,6 +9,8 @@ Systemlessly replaces emoji font with EmojiOne.
 
 ## Changes
 * v1.2 - Updated EmojiOne font to 3.0 (May 3, 2017)
+* v.11 - Update to latest Magisk Module template
+* v1.1 - Bugfix
 * v1 - Initial release
 
 
