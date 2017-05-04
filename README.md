@@ -1,4 +1,4 @@
-Current EmojiOne version: `November 5, 2016` ([source](https://github.com/Ranks/emojione/raw/master/assets/fonts/emojione-android.ttf))
+Current EmojiOne version: `May 3, 2017` ([source](https://github.com/Ranks/emojione/blob/master/extras/fonts/emojione-android.ttf?raw=true))
 
 ---
 
