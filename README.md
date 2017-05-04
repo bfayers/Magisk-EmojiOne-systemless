@@ -1,7 +1,7 @@
 # EmojiOne
 Systemlessly replaces emoji font with EmojiOne.
 
-*Current EmojiOne version: `May 3, 2017` ([source](https://github.com/Ranks/emojione/raw/master/assets/fonts/emojione-android.ttf))*
+*Current EmojiOne version: `May 3, 2017` ([source](https://raw.githubusercontent.com/Ranks/emojione/master/extras/fonts/README.md))*
 
 ## Known incompatibilities
 * Anything which will modify the system Emoji font file
