@@ -8,7 +8,7 @@ Systemlessly replaces emoji font with EmojiOne.
 * **May not apply correctly on certain OEM roms such as HTC!**
 
 ## Changes
-* v1.2 - Updated EmojiOne font (May 3, 2017)
+* v1.2 - Updated EmojiOne font to 3.0 (May 3, 2017)
 * v1 - Initial release
 
 
