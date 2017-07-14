@@ -8,3 +8,7 @@ v1.2
     - Update to latest version of EmojiOne
 v1.21
     - Updated to latest version on EmojiOne. Now includes all characters in v3
+v1.22
+		- Updated to Magisk module template v4
+v1.3
+		- Updated to EmojiOne 3.1
