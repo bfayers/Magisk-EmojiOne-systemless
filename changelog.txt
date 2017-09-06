@@ -1,14 +1,16 @@
 v1
-    - Initial release
+	- Initial release
 v1.1
-    - Bugfix
+	- Bugfix
 v1.11
-    - Update to latest Magisk Module template
+	- Update to latest Magisk Module template
 v1.2
-    - Update to latest version of EmojiOne
+	- Update to latest version of EmojiOne
 v1.21
-    - Updated to latest version on EmojiOne. Now includes all characters in v3
+	- Updated to latest version on EmojiOne. Now includes all characters in v3
 v1.22
-		- Updated to Magisk module template v4
+	- Updated to Magisk module template v4
 v1.3
-		- Updated to EmojiOne 3.1
+	- Updated to EmojiOne 3.1
+v1.31
+	- Updated to Magisk module template v1400

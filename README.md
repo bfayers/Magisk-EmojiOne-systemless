@@ -8,6 +8,7 @@ Systemlessly replaces emoji font with EmojiOne.
 * **May not apply correctly on certain OEM roms such as HTC!**
 
 ## Changes
+* v1.31 - Updated to Magisk module template v1400
 * v1.3 - Updated EmojiOne font to 3.1 (July 6, 2017)
 * v1.22 - Updated to Magisk module template v4
 * v1.21 - Font now includes all characters in EmojiOne v3 (May 23, 2017)
