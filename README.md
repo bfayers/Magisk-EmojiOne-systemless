@@ -1,21 +1,15 @@
-# EmojiOne
-Systemlessly replaces emoji font with EmojiOne.
+# Twemoji
+Systemlessly replaces emoji font with Twemoji.
 
-*Current EmojiOne version: `July 6, 2017` ([source](https://github.com/Ranks/emojione/raw/master/extras/fonts/emojione-android.ttf))*
+*Current Twemoji version: `June 4, 2017` ([source](https://github.com/eosrei/twemoji-color-font/releases))*
 
 ## Known incompatibilities
-* Anything which will modify the system Emoji font file
-* **May not apply correctly on certain OEM roms such as HTC!**
+~~* Anything which will modify the system Emoji font file
+* **May not apply correctly on certain OEM roms such as HTC!**~~
+Unsure of above as they are for the EmojiOne module of which this is a fork to. Probably the same issues.
 
 ## Changes
-* v1.31 - Updated to Magisk module template v1400
-* v1.3 - Updated EmojiOne font to 3.1 (July 6, 2017)
-* v1.22 - Updated to Magisk module template v4
-* v1.21 - Font now includes all characters in EmojiOne v3 (May 23, 2017)
-* v1.2 - Updated EmojiOne font to 3.0 (May 4, 2017)
-* v.11 - Update to latest Magisk Module template
-* v1.1 - Bugfix
 * v1 - Initial release
 
 
-#### Thread: https://forum.xda-developers.com/apps/magisk/module-emoji-one-t3477911
+#### Thread: not yet
