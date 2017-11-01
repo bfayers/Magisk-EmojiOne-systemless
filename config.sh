@@ -42,7 +42,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "           Emoji One           "
+  ui_print "           Twemoji             "
   ui_print "*******************************"
 }
 
