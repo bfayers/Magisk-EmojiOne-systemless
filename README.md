@@ -1,15 +1,16 @@
 # Twemoji
 Systemlessly replaces emoji font with Twemoji.
 
-*Current Twemoji version: `June 4, 2017` ([source](https://github.com/eosrei/twemoji-color-font/releases))*
+*Current Twemoji version: `2.3.1` from `30 Oct 2017` ([source](https://github.com/ingrinder/twemoji-android/releases))*
 
 ## Known incompatibilities
-~~* Anything which will modify the system Emoji font file
-* **May not apply correctly on certain OEM roms such as HTC!**~~
-Unsure of above as they are for the EmojiOne module of which this is a fork to. Probably the same issues.
+* Anything that has modified or will modify the emoji file in /system/fonts
+* **May not apply correctly on certain OEM roms such as HTC!**
 
 ## Changes
-* v1 - Initial release
+* v1.0 - Initial release, Twemoji v2.3.0
+* v1.1 - Release with Noto patched font in an attempt to get colour.
+* v1.2 - Release with font built using [twemoji-android](https://github.com/ingrinder/twemoji-android)
 
 
 #### Thread: not yet
