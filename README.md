@@ -12,5 +12,7 @@ Systemlessly replaces emoji font with Twemoji.
 * v1.1 - Release with Noto patched font in an attempt to get colour.
 * v1.2 - Release with font built using [twemoji-android](https://github.com/ingrinder/twemoji-android)
 
+##Screenshot
+![Screenshot Of Keyboard Proving It Works](https://github.com/bfayers/Magisk-Twemoji-systemless/raw/master/proof.png "Image")
 
 #### Thread: not yet
