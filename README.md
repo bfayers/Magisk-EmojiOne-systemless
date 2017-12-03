@@ -1,4 +1,7 @@
 # Twemoji
+PLEASE GO TO [GitLab](https://gitlab.com/bfayers/Twemoji-systemless-Magisk) INSTEAD.
+The font builds itself there, I am now working on a system to auto grab latest Twemojis, build Twemoji.ttf and rebuild module. nightly.
+
 Systemlessly replaces emoji font with Twemoji.
 
 *Current Twemoji version: `2.3.1` from `30 Oct 2017` ([source](https://github.com/ingrinder/twemoji-android/releases))*
